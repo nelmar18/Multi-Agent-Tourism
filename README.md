@@ -589,4 +589,4 @@ MIT License. Comply with external API terms (Nominatim, Open-Meteo, Overpass).
 
 ---
 
-**Built with ❤️ by Pranav** | *Last Updated: November 22, 2025*
+**Built with ❤️ by Nelmar** | *Last Updated: February 5, 2026*
